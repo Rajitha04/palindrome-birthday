@@ -1,0 +1,32 @@
+#date-picker{
+    width: 18vw;
+    display: block;
+    height: 7vw;
+    margin: auto;
+    margin-top: 3rem;
+    border-color: black;
+    font-size: large;
+
+}
+body{
+    background-color: blueviolet;
+    margin:auto;
+}
+#check-palindrome{
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    font-size: larger;
+    border-color: black;
+}
+#result{
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 2rem;
+}
+.header{
+    text-align: center;
+    margin-top: 2rem;
+}
