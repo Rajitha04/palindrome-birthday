@@ -1,7 +1,7 @@
 #date-picker{
-    width: 18vw;
+    width: 30vw;
     display: block;
-    height: 7vw;
+    height: 8vw;
     margin: auto;
     margin-top: 3rem;
     border-color: black;
@@ -11,6 +11,8 @@
 body{
     background-color: blueviolet;
     margin:auto;
+    display: block;
+    text-align: center;
 }
 #check-palindrome{
     display: block;
